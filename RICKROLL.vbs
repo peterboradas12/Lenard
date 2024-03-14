@@ -1,0 +1,2 @@
+set speech = Wscript.CreateObject("SAPI.spVoice") 
+speech.speak "NEVER GONNA GIVE YOU UP, NEVER GONNA LET YOU DOWN, NEVER GONNA TURN AROUND AND DESERT YOU"
